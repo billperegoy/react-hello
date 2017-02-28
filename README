@@ -1,0 +1,4 @@
+This repository conatins the simplest React/Redux compoenent possoble. It only
+uses native ES5 capbilties and nothing needs to be transpiled. The goal here was
+to demonstrate how you could use React and Redux with as little tooling as
+possible.
